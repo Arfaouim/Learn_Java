@@ -1,0 +1,3 @@
+The void Keyword :
+
+The void keyword allows us to create methods which do not return a value.
